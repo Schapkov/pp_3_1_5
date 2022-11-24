@@ -1,4 +1,4 @@
-package com.andrey.pp_3_1_5.dao;
+package com.andrey.pp_3_1_5.repository;
 
 
 import com.andrey.pp_3_1_5.model.Role;

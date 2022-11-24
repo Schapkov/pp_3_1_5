@@ -1,6 +1,6 @@
 package com.andrey.pp_3_1_5.service;
 
-import com.andrey.pp_3_1_5.dao.RoleRepository;
+import com.andrey.pp_3_1_5.repository.RoleRepository;
 import com.andrey.pp_3_1_5.model.Role;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
